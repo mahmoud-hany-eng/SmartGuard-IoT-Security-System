@@ -12,7 +12,7 @@ interface to create a complete end-to-end security solution.
 
 ## Prototype Mobile Application Interface
 
-<img src="images/mobile-app.PNG" width="300">
+<img src="images/mobile-app.png" width="300">
 
 ------------------------------------------------------------------------
 
