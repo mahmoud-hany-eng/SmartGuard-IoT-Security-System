@@ -9,6 +9,11 @@ interface to create a complete end-to-end security solution.
 ## Prototype
 
 <img src="images/prototype-1.JPG" width="400">
+
+## Prototype Mobile Application Interface
+
+<img src="images/mobile-app.PNG" width="300">
+
 ------------------------------------------------------------------------
 
 ## System Overview
