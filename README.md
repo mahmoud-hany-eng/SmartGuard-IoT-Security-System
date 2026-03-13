@@ -48,6 +48,7 @@ the mobile application in real time.
 • Timestamped event logging using RTC\
 • Cloud synchronization via Firebase\
 • Mobile application interface for status monitoring and alerts
+• Remote door lock / unlock through mobile application
 
 ------------------------------------------------------------------------
 
