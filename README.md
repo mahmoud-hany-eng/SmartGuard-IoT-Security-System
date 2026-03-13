@@ -10,7 +10,7 @@ interface to create a complete end-to-end security solution.
 
 Below is the physical prototype of the SmartGuard security system.
 
-![Prototype](images/prototype-1.jpg)
+![Prototype](D:\Documents\university\projects\Theft detection\images\prototype-1.jpg)
 ------------------------------------------------------------------------
 
 ## System Overview
