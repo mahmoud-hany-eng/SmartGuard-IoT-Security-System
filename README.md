@@ -6,7 +6,11 @@ through a mobile application.
 
 The system integrates embedded hardware, cloud services, and a mobile
 interface to create a complete end-to-end security solution.
+## Prototype
 
+Below is the physical prototype of the SmartGuard security system.
+
+![Prototype](images/prototype-1.jpg)
 ------------------------------------------------------------------------
 
 ## System Overview
